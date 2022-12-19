@@ -1,30 +1,33 @@
 # 期末商城
+
 #### 介绍
+
 就是个期末作业而已
 
-#### 前软件架构
+#### 软件架构
+
 ```
 |--project
 	|--node_moudules
 	|--public
 	|	|--index.html
 	|--src
-	|	|--Views
+	|	|--VIEWS
+	|	|	|--goods.vue
+	|	|	|--remmend.vue
+	|	|	|--login.vue
 	|	|-- App.vue
 	|	|--main.js
-        |       |--router
-        |       |--api
-        |       |--assets
-        |       |--components
-        |       |--parts
-        |       |--plugins
-        |       |--server
-        |       |--utils
 	
 	
 	
 ```
 
+#### 数据库公网地址
+
+**地址**：gz-cdb-h3crdzup.sql.tencentcdb.com
+
+**端口**：56824
 
 
 #### 安装教程
