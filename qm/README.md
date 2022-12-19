@@ -1,8 +1,11 @@
 # 期末商城
+
 #### 介绍
+
 就是个期末作业而已
 
 #### 软件架构
+
 ```
 |--project
 	|--node_moudules
@@ -10,9 +13,9 @@
 	|	|--index.html
 	|--src
 	|	|--VIEWS
-	|	|	|--GoodView.vue
-	|	|	|--RemmendView.vue
-	|	|	|--LoginView.vue
+	|	|	|--goods.vue
+	|	|	|--remmend.vue
+	|	|	|--login.vue
 	|	|-- App.vue
 	|	|--main.js
 	
