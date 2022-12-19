@@ -22,7 +22,7 @@ var db *sqlx.DB
 //初始化数据库连接，init()方法系统会在动在main方法之前执行。
 func init() {
 	fmt.Printf("10086")
-	database, err := sqlx.Open("mysql", "root:chenyonyu1@@tcp(localhost:3306)/user")
+	database, err := sqlx.Open("mysql", "username:password@tcp(url)/user")
 	if err != nil {
 		fmt.Println("open mysql failed,", err)
 	}

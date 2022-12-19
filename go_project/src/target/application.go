@@ -1,8 +1,8 @@
 package target
 
 type MySql struct {
-	Username string "root"
-	Password string "chenyonyu1@"
+	Username string "username"
+	Password string "password"
 	Url      string "127.0.0.1:3306"
 }
 
