@@ -1,0 +1,5 @@
+package goods
+
+func GetGoodsMapper() {
+	
+}

@@ -1,0 +1,7 @@
+外网面板地址: http://175.178.96.147:8888/320ed78d
+内网面板地址: http://10.0.12.12:8888/320ed78d
+username: sw4ccsqh
+password: 240521f2
+If you cannot access the panel,
+release the following panel port [8888] in the security group
+若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口
