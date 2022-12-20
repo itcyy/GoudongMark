@@ -23,11 +23,6 @@
 	
 ```
 
-#### 数据库公网地址
-
-**地址**：gz-cdb-h3crdzup.sql.tencentcdb.com
-
-**端口**：56824
 
 
 #### 安装教程
@@ -55,15 +50,6 @@ yarn install
 yarn run dev
 ```
 
-更新项目
-
-```sh
-git init （创建本地git仓库）
-git remote add origin https://gitee.com/itcyy_goods_qimo/shangcheng.git
-git add .
-git commit -m "my commit"
-git push -u origin master(如果不行直接执行git push -f origin master 强制执行，最好别用)
-```
 
 当然如果上面的代码执行后没办法直接上传，我们也可以把需要的文件直接拖拽来上传，每个人需要执行的东西不多。尽量不要强制上传
 
